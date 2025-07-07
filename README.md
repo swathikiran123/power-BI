@@ -1,11 +1,15 @@
-**🌤️ TS Weather Data Analysis Project**
+********🌤️ TS Weather Data Analysis Project********
 
-**📝 Project Summary**
+
+******📝 Project Summary******
+
+
 The TS Weather Data Analysis Project is an interactive data visualization project built using Power BI. It analyzes weather data from Telangana (TS), focusing on metrics such as temperature, rainfall, humidity, and other environmental factors.
 
 This project helps stakeholders (e.g., policymakers, farmers, researchers) to make data-driven decisions by uncovering patterns and trends from historical weather data.
 
-**🎯 Objectives**
+****🎯 Objectives****
+
 Perform comprehensive analysis of weather data for Telangana.
 
 Identify seasonal trends and yearly changes.
