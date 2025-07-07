@@ -70,8 +70,14 @@ District-level Insights: Compare climatic conditions across different regions in
 
 💬 Note: Actual visuals/screenshots can be added here for clarity.
 
+
 1️⃣ Summary Page: Key KPIs and trends at a glance.
+
 2️⃣ Temperature Analysis: Monthly and yearly breakdown, comparison across regions.
+
 3️⃣ Rainfall Analysis: Rainfall distribution over time, anomalies, and seasonal variations.
+
 4️⃣ Humidity & Wind Analysis: Patterns affecting comfort and agriculture.
+
 5️⃣ Forecast Page (optional): Trend projections using Power BI forecasting tools.
+
